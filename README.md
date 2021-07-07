@@ -1,6 +1,5 @@
 # first_app
-
-A new Flutter project.
+A resume builder is a software developed to simplify the task of creating a resume for individuals.
 
 ## Getting Started
 
